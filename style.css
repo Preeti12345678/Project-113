@@ -1,0 +1,14 @@
+canvas {
+    border: 1px solid purple;
+}
+button{
+    background-color: plum;
+}
+h3{
+    background-color: palevioletred;
+    color: white;
+}
+body{
+    background-color: rgb(44, 131, 230);
+    color: white;
+}
