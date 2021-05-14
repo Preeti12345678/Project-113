@@ -1,12 +1,11 @@
-canvas {
-    border: 1px solid purple;
-}
+
 button{
     background-color: plum;
 }
 h3{
     background-color: palevioletred;
-    color: white;
+    color: white !important;
+    font-size: 20px !important;
 }
 body{
     background-color: purple;
